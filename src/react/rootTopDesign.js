@@ -1,5 +1,5 @@
 const Item = () => {
-    return <div className="bg-gray-100 h-3 w-3 rounded-full"></div>;
+    return <div className="bg-gray-100 h-2 w-2 md:h-3 md:w-3 rounded-full transition-all duration-500 ease-in-out"></div>;
 };
 
 const RootTopDesign = () => {
