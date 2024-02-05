@@ -1,1 +1,1 @@
-Live: https://rayhanalshorif133.github.io/MSCSE-UIU/
+Live Link: https://rayhanalshorif133.github.io/MSCSE-UIU/
