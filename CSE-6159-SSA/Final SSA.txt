@@ -1,0 +1,16 @@
+======Summary=======
+Final - Cash flow lagbay na
+
+35 Marks 5 Marks assessed will mentioned on the question paper. 
+
+Ager question - if possible 
+
+Schenireo - Mid ar moto - 4 ta group theki - group work - solution Khata - group a share 
+1. UML diagram
+2. Fisibility analysis - tech, financial, ?
+3. Golden rule
+4. Sequence diagram
+5. State diagram
+6. Deployment diagram
+7. Class responsibility collaboration (CRC) 
+===========End========
