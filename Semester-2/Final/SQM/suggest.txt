@@ -1,57 +1,58 @@
 Chapter 8
 
-Define Audit
-Explain the major issues of Security Audit
-What are the purposes of security, information system, ISO audit?
-Which roles are involved in software audit?
-Clarify Software piracy audit with the purpose of audit and what is audited by the auditor.
-Which documents we must see as Proof of Owner ship?
-What are the factors we should consider for Backup security?
-What is the purpose of security audit?
-What is audited in security audit?
-What to check to ensure security in terms of antivirus?
-What is the purpose of an information systems audit?
-What is the purpose of ISO software audit?
-What are the differences between assessment and evaluation?
-What is the purpose of CMMI- Dev appraisal?
-SCAMPI = ?
-Name the phases of SCAMPI.
+1. Define Audit  
+2. Explain the major issues of Security Audit  
+3. What are the purposes of security, information system, ISO audit?  
+4. Which roles are involved in software audit?  
+5. Clarify Software piracy audit with the purpose of audit and what is audited by the auditor.  
+6. Which documents we must see as Proof of Ownership?  
+7. What are the factors we should consider for Backup security?  
+8. What is the purpose of security audit?  
+9. What is audited in security audit?  
+10. What to check to ensure security in terms of antivirus?  
+11. What is the purpose of an information systems audit?  
+12. What is the purpose of ISO software audit?  
+13. What are the differences between assessment and evaluation?  
+14. What is the purpose of CMMI-Dev appraisal?  
+15. SCAMPI = ?  
+16. Name the phases of SCAMPI.  
 
 
 ---------------------------------------------------------------------------------------
 Chapter 12
-What are the qualities of a SQA personnel?
-What are the additional requirements needed when hiring of a SQA is done?
-How do you make the best use of resources when planning SQA both tactically and
-strategically?
-How do you implement a successful SQA program without undue stress and
-expense?
+
+1. What are the qualities of a SQA personnel?  
+2. What are the additional requirements needed when hiring of a SQA is done?  
+3. How do you make the best use of resources when planning SQA both tactically and strategically?  
+4. How do you implement a successful SQA program without undue stress and expense?  
 
 
 
 ---------------------------------------------------------------------------------------
 Chapter 15 Costs of Software Quality
-Definition
-Cost of Software quality
-Cost of Control
-Prevention cost
-Appraisal Cost
-Failure of Control Cost
-Internal Failure Cost
-External Failure Cost
-Model of CoSQ
-Cost of Software quality balance Figure explanation
-Types of prevention cost
-Types of Appraisal cost
-Types of internal failure cost
-Types of external failure
+
+1. Definition  
+2. Cost of Software Quality  
+3. Cost of Control  
+4. Prevention Cost  
+5. Appraisal Cost  
+6. Failure of Control Cost  
+7. Internal Failure Cost  
+8. External Failure Cost  
+9. Model of CoSQ  
+10. Cost of Software Quality Balance Figure Explanation  
+11. Types of Prevention Cost  
+12. Types of Appraisal Cost  
+13. Types of Internal Failure Cost  
+14. Types of External Failure Cost  
 
 
 ---------------------------------------------------------------------------------------
 Chapter 16
-Relation between Metric, Measure and Indicator.
-Define and describe software quality indcators
-What are four activities that are part of a successful measurement program?
-Define the measures used by HP
-Effectiveness measure (Robert Dunn)
-Difference between PSP and TSP
+
+1. Relation between Metric, Measure and Indicator.  
+2. Define and describe software quality indicators.  
+3. What are four activities that are part of a successful measurement program?  
+4. Define the measures used by HP.  
+5. Effectiveness measure (Robert Dunn).  
+6. Difference between PSP and TSP.  
